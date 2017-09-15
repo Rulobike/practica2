@@ -9,7 +9,7 @@
         <Label Text="Tecnologico De Estudios Superiores De Huixquilucan" TextColor="CornflowerBlue"/>
         <Label Text="Raul García Ríos" TextColor="Red"/>
         <Label Text="13090341" TextColor="Aqua"/>
-
+        
     </StackLayout>
 
 </ContentPage>
